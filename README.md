@@ -1,2 +1,4 @@
 #Nomad
- Nomad Catalog App
+Nomad Catalog App
+#subheader
+Other Texts
